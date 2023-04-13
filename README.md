@@ -1,15 +1,15 @@
 <h1 align="center">Hey, I'm Dave!</h1>
 <h3 align="center">An enthusiastic full-stack developer from the UK, looking for junior software developer opportunities</h3>
 
-- I’m currently working on [TTRPG Helper](https://github.com/Dex491/ttrpg-helper-client)
+- I’m currently working on [**TTRPG Helper**](https://github.com/Dex491/ttrpg-helper-client)
 
 - I’m currently learning **Typescript, sass**
 
-- All of my projects are available at [WIP](WIP)
+- All of my projects are available on [**_WIP_ my portfolio**](WIP)
 
 - You can contact me at **DaveRevell491@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/1KS4eaVN59lOaW2qqendLTMOcEldfdXjt/view?usp=sharing](https://drive.google.com/file/d/1KS4eaVN59lOaW2qqendLTMOcEldfdXjt/view?usp=sharing)
+- Know about my experiences [**CV on Google Drive**](https://drive.google.com/file/d/1KS4eaVN59lOaW2qqendLTMOcEldfdXjt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
