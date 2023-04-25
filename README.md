@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Dave!</h1>
 <h3 align="center">An enthusiastic full-stack developer from the UK, looking for junior software developer opportunities</h3>
 
-- I’m currently working on [**TTRPG Helper**](https://github.com/Dex491/ttrpg-helper-client)
+- I’m currently working on [**my portfolio**](https://github.com/Dex491/portfolio)
 
 - I’m currently learning **Typescript, sass**
 
