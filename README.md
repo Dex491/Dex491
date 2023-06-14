@@ -5,7 +5,7 @@
 
 - I’m currently learning **Typescript, sass**
 
-- All of my projects are available on [**_WIP_ my portfolio**](WIP)
+- All of my projects are available on [**my portfolio**](https://portfolio-dave-revell.vercel.app)
 
 - You can contact me at **DaveRevell491@gmail.com**
 
