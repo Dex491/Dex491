@@ -5,11 +5,11 @@
 
 - I’m currently learning **Typescript, sass**
 
-- All of my projects are available on [**my portfolio**](https://portfolio-dave-revell.vercel.app)
+- All of my projects are available on [**My Portfolio**](https://portfolio-dave-revell.vercel.app)
 
 - You can contact me at **DaveRevell491@gmail.com**
 
-- Know about my experiences [**CV on Google Drive**](https://drive.google.com/file/d/1gh7I1nhFDWIospFZwXmAbnOLNzmd_QdB/view?usp=sharing)
+- Know about my experiences [**CV on Google Drive**](https://drive.google.com/file/d/18dbGzXjKsS2YJKkvM-QWngi6yjzuy0C3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
