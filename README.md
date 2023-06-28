@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Dave!</h1>
 <h3 align="center">An enthusiastic full-stack developer from the UK, looking for junior software developer opportunities</h3>
 
-- I’m currently working on **my portfolio** (private repo)
+- I’m currently working on **Game/World Mapper** (currently researching documentation)
 
 - I’m currently learning **Typescript, sass**
 
@@ -9,7 +9,7 @@
 
 - You can contact me at **DaveRevell491@gmail.com**
 
-- Know about my experiences [**CV on Google Drive**](https://drive.google.com/file/d/18dbGzXjKsS2YJKkvM-QWngi6yjzuy0C3/view?usp=sharing)
+- Know about my experiences [**CV on Google Drive**](https://drive.google.com/file/d/1_koy2a-0AqPh887-Yc4aScGyt_k3tzUk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
