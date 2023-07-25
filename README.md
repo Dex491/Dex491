@@ -9,7 +9,7 @@
 
 - You can contact me at **DaveRevell491@gmail.com**
 
-- Know about my experiences [**CV on Google Drive**](https://drive.google.com/file/d/1MMHabnVzhX1p5poH_GTadiNfzAPX_tEp/view?usp=sharing)
+- Know about my experiences [**CV on Google Drive**](https://drive.google.com/file/d/1D_xeOSJ_16K-0YFQqoiiOAdTTWdXC5rb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
