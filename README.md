@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Dave!</h1>
-<h3 align="center">An enthusiastic full-stack developer from the UK, looking for junior software developer opportunities</h3>
+<h3 align="center">An enthusiastic full-stack developer from the UK, currently working as a Web Developer at Everard</h3>
 
-- I’m currently working on [**Game/World Mapper**](https://github.com/Dex491/game-mapper)
+- I’m not currently working on any personal projects
 
-- I’m currently learning **Typescript, sass**
+- I’m currently learning **Laravel, PHP, VueJS, Sass, MySQL**
 
 - All of my projects are available on [**My Portfolio**](https://portfolio-dave-revell.vercel.app)
 
